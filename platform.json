@@ -47,8 +47,7 @@
     "framework-arduino-megaavr-megatinycore": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~2.3.2"
+      "version": "https://github.com/SpenceKonde/megaTinyCore.git@~2.3.2"
     },
     "tool-avrdude-megaavr": {
       "type": "uploader",
